@@ -12,8 +12,8 @@ Nanoindentation is a powerful technique where the indenter tip of known geometry
 Both the deformation of plastic and the deformation of metals involve changes to the makeup of the material itself. For example, metals that undergo this process of plastic deformation experience a condition known as dislocation. As stress of some type is exerted on the metal, the material reaches a point known as the yield strength. When this point is achieved, the pattern of the molecules that make up the metal begin to shift. The end result is that the molecules realign in a pattern that is shaped by the exterior stress placed on the object.(Brief and straightforward Guide)<br><br>
 <b>Results</b><br><br>
 Following are the plastic work results for some of the materials:<br><br>
-<img src="images/uhmw1.jpg"><br>
-<img src="images/uhmw2.jpg"><br>
-<img src="images/uhmw3.jpg"><br>
-<b>Conclusion</b>
-<img src="images/conclusion.PNG"><br>
+<img src="images/uhmw1.jpg" width="200" height="200"><br>
+<img src="images/uhmw2.jpg" width="200" height="200"><br>
+<img src="images/uhmw3.jpg" width="200" height="200"><br><br>
+<b>Conclusion</b><br><br>
+<img src="images/conclusion.PNG" width="200" height="200"><br>
