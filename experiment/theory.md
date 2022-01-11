@@ -9,12 +9,11 @@ Nanoindentation is a standard method to investigate mechanical properties like h
 <b>How to perform Nanoindentation?</b><br><br>
 Nanoindentation is a powerful technique where the indenter tip of known geometry is projected into the specific site in the material to be tested, increasing load is applied and when it reaches the designated maximum value, partial unloading is performed until desired depth is attained. The holding segment is introduced which allows the material to relax before unloading. The process is repeated many times and position of the indenter tip and the surface is monitored with differential transformer.<br><br>
 <b>Plastic deformation</b> is a process is which enough stress is placed on metal or plastic to cause the object to bend. A deformation of this type is considered to be permanent in nature. Sometimes referred to simply as plasticity, this type of deformation can take be conducted under controlled circumstances as well as unintentionally.<br><br>
-
 Both the deformation of plastic and the deformation of metals involve changes to the makeup of the material itself. For example, metals that undergo this process of plastic deformation experience a condition known as dislocation. As stress of some type is exerted on the metal, the material reaches a point known as the yield strength. When this point is achieved, the pattern of the molecules that make up the metal begin to shift. The end result is that the molecules realign in a pattern that is shaped by the exterior stress placed on the object.(Brief and straightforward Guide)<br><br>
 <b>Results</b><br><br>
 Following are the plastic work results for some of the materials:<br><br>
-<img src=""><br>
-<img src=""><br>
-<img src=""><br>
+<img src="images/uhmw1.jpg"><br>
+<img src="images/uhmw2.jpg"><br>
+<img src="images/uhmw3.jpg"><br>
 <b>Conclusion</b>
-<img src=""><br>
+<img src="images/conclusion.PNG"><br>
