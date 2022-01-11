@@ -2,38 +2,62 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The main problem in calculating elastic modulus and hardness via nanoindentation is evaluation of:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Indent depth",
+        "b": "Contact area",
+        "c": "Maximum load",
+        "d": "Maximum displacement"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "b"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "In the loading/unloading cycle, the holding time is introduced in order to",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Allow material to relax before unloading",
+        "b": "Allow proper application of loading on material",
+        "c": "Deform the material after loading",
+        "d": "Evaluate hardness of the material"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "a"
+      
+    },
+    {
+      "question": "When compared to polymer alone, the reinforcement of ~5-10 wt.% Al2O3 in polymer matrix is expected to",
+      "answers": {
+        "a": "Enhance hardness",
+        "b": "Enhance modulus",
+        "c": "Decrease hardness",
+        "d": "Decrease modulus"
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
+      
+      "correctAnswer": "a"
+      
+    },
+    {
+      "question": "Higher hc/hmax ratio means:",
+      "answers": {
+        "a": "Higher elastic recovery",
+        "b": "Higher plastic recovery",
+        "c": "Lower elastic recovery",
+        "d": "Lower plastic recovery"
+      },
+      
+      "correctAnswer": "c"
+      
+    },
+    {
+      "question": "When the plastic work increases",
+      "answers": {
+        "a": "The recovery of material increases",
+        "b": "The elastic work done increases",
+        "c": "The hardness of material increases",
+        "d": "The total work done increases"
+      },
+      
+      "correctAnswer": "d"
+      
     }
   ]
 }
