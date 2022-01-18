@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "The main problem in calculating elastic modulus and hardness via nanoindentation is evaluation of:",
+      "question": "1. The main problem in calculating elastic modulus and hardness via nanoindentation is evaluation of:",
       "answers": {
         "a": "Indent depth",
         "b": "Contact area",
@@ -12,7 +12,7 @@
       "correctAnswer": "b"
     },
     {
-      "question": "In the loading/unloading cycle, the holding time is introduced in order to",
+      "question": "2. In the loading/unloading cycle, the holding time is introduced in order to",
       "answers": {
         "a": "Allow material to relax before unloading",
         "b": "Allow proper application of loading on material",
@@ -24,7 +24,7 @@
       
     },
     {
-      "question": "When compared to polymer alone, the reinforcement of ~5-10 wt.% Al2O3 in polymer matrix is expected to",
+      "question": "3. When compared to polymer alone, the reinforcement of ~5-10 wt.% Al2O3 in polymer matrix is expected to",
       "answers": {
         "a": "Enhance hardness",
         "b": "Enhance modulus",
@@ -36,7 +36,7 @@
       
     },
     {
-      "question": "Higher hc/hmax ratio means:",
+      "question": "4. Higher hc/hmax ratio means:",
       "answers": {
         "a": "Higher elastic recovery",
         "b": "Higher plastic recovery",
@@ -48,7 +48,7 @@
       
     },
     {
-      "question": "When the plastic work increases",
+      "question": "5. When the plastic work increases",
       "answers": {
         "a": "The recovery of material increases",
         "b": "The elastic work done increases",
