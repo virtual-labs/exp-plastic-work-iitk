@@ -5,7 +5,7 @@ Nanoindentation is a standard method to investigate mechanical properties like h
   <source src="images/nfm.mp4" type="video/mp4">
   Your browser does not support the video tag</video></div><br>
   <div style="content: '.';clear: both;display: block;height: 0;visibility: hidden;"></div>
-<a href="https://youtu.be/-8HISU35vhY">NPTEL Link</a><br><br>
+<a href="https://youtu.be/-8HISU35vhY" target=_blank>NPTEL Lecture Link</a><br><br>
 <b>How to perform Nanoindentation?</b><br><br>
 Nanoindentation is a powerful technique where the indenter tip of known geometry is projected into the specific site in the material to be tested, increasing load is applied and when it reaches the designated maximum value, partial unloading is performed until desired depth is attained. The holding segment is introduced which allows the material to relax before unloading. The process is repeated many times and position of the indenter tip and the surface is monitored with differential transformer.<br><br>
 <b>Plastic deformation</b> is a process is which enough stress is placed on metal or plastic to cause the object to bend. A deformation of this type is considered to be permanent in nature. Sometimes referred to simply as plasticity, this type of deformation can take be conducted under controlled circumstances as well as unintentionally.<br><br>
