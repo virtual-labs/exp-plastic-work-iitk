@@ -1,0 +1,63 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Hardness is defined as:",
+      "answers": {
+        "a": "Impression created by indenter",
+        "b": "Stiffness of the material",
+        "c": "How strong is the material",
+        "d": "Resistance to plastic deformation"
+      },
+      "correctAnswer": "d"
+    },
+    {
+      "question": "Hardness is proportional to:",
+      "answers": {
+        "a": "Load/ diameter of contact surface",
+        "b": "Load/ Area of contact surface",
+        "c": "Load/ Length of contact surface",
+        "d": "Load/radius of contact surface"
+      },
+      
+      "correctAnswer": "b"
+      
+    },
+    {
+      "question": "Which of the following material typically has higher elastic modulus ?",
+      "answers": {
+        "a": "Polymer",
+        "b": "Metal",
+        "c": "Glass",
+        "d": "Ceramic"
+      },
+      
+      "correctAnswer": "d"
+      
+    },
+    {
+      "question": "Nanoindentation can NOT evaluate:",
+      "answers": {
+        "a": "Elastic modulus",
+        "b": "Hardness",
+        "c": "Fracture toughness",
+        "d": "Yield strength"
+      },
+      
+      "correctAnswer": "d"
+      
+    },
+    {
+      "question": "Elastic modulus of the material during P-h curve is evaluated using the material response at:",
+      "answers": {
+        "a": "Start of loading cycle",
+        "b": "Start of holding cycle",
+        "c": "Start of unloading cycle",
+        "d": "Completion of unloading cycle"
+      },
+      
+      "correctAnswer": "c"
+      
+    }
+  ]
+}
