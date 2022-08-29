@@ -1,1 +1,2 @@
-### Procedure
+1. In this experiment a nanoindenter tip of known geometry is projected into the selected location on the material surface of the material to be tested. The load is continuously increased till a designated maximum value, after which we partially unload the material until desired depth is attained. 
+2. Next holding segment is introduced to allow the material to relax before unloading. The process is repeated many times and position of the indenter tip and the surface is monitored with a differential transformer. The modulii values are calculated using the formulae given above.
